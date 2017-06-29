@@ -1,2 +1,3 @@
 # hello-world
-how3repo
+
+Howdy, I am now trying out Git
